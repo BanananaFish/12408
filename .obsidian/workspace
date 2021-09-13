@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "7a0c284fe992def1",
+    "type": "split",
+    "children": [
+      {
+        "id": "18d4b69363243858",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "计算机组成原理/2 数据的表示和运算.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87139e32c781c38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ff944177391e8f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e60cd01191074808",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec418a0c8f7f4eb0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9bdabd755ffca48a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2a9d31d66bd2214",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "620f018339585074",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "计算机组成原理/2 数据的表示和运算.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "18d4b69363243858",
+  "lastOpenFiles": [
+    "计算机组成原理/2 数据的表示和运算.md",
+    "计算机组成原理/1 计算机系统概述.md",
+    "计算机组成原理.md",
+    "Untitled.md"
+  ]
+}
